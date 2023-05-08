@@ -6,6 +6,4 @@ For start the script, please start the <code>install.bat</code> OR do <code>pip 
 <p align="center"> 
 <img src="https://media.discordapp.net/attachments/854057157463900240/1105243940208255097/image.png"></img>
 </p>
-<p align="center"> 
-<img src="https://cdn.discordapp.com/attachments/854057157463900240/1105244255703802016/image.png"></img>
-</p>
+

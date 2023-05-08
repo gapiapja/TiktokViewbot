@@ -4,8 +4,8 @@ For start the script, please start the install.bat and do <code> python Tikok Vi
 
 
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/98614666/218313368-e8b3613c-6639-4922-95ac-c23bbcdffdf1.png"></img>
+<img src="https://media.discordapp.net/attachments/854057157463900240/1105243940208255097/image.png"></img>
 </p>
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/98614666/218313369-31f5049c-0dd4-4eca-b323-cccc3436a418.png"></img>
+<img src="https://cdn.discordapp.com/attachments/854057157463900240/1105244255703802016/image.png"></img>
 </p>

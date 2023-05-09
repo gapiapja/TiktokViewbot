@@ -3,6 +3,6 @@ pycryptodome
 pystyle
 colorama
 auto_py_to_exe
- pyinstaller
+pyinstaller
 wmi
 pythonw

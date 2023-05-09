@@ -7,3 +7,8 @@ For start the script, please start the <code>install.bat</code> OR do <code>pip 
 <img src="https://media.discordapp.net/attachments/854057157463900240/1105243940208255097/image.png"></img>
 </p>
 
+<p align="center"> 
+  Download<br>
+  <img src="https://profile-counter.glitch.me/tiktokviews/count.svg" />
+</p>
+
